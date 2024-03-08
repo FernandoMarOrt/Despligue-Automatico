@@ -14,7 +14,7 @@ function App() {
       <div className='tareas-lista-principal'>
         <h1>Mis Tareas</h1>
 	<p>Cambio realizado por Fernando</p>
-	<p>Cambio realizado por Tania</p>
+	<p>Cambio realizado por Tania<3</p>
         <ListaDeTareas />
       </div>
     </div>
